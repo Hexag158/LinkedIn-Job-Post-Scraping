@@ -40,10 +40,10 @@ LINKEDIN_PASSWORD=password
 3) Adjust your search criteria for what you want to search for in the .ipynb file
 ```
 # Accepts a list of search keywords to analyze for
-search_keywords = ['Data Analyst', 'Data Scientist', 'Data Engineer']
+search_keywords = ['Data Engineer']
 
 # Accepts one location.. if spaces in the name use '%20'
-search_location = "United%20States"
+search_location = "Ha%20Noi"
 
 4) Run "All Cells" on .ipynb  
     a) In the *log* directory, a *.log* file is created that captures the progress of the data scraping and reports any errors  
