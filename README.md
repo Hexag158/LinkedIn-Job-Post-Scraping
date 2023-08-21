@@ -17,9 +17,8 @@ LinkedIn may BLOCK you from searching if you are scraping too much data as you d
 ###  LinkedIn.ipynb - Job Scraper by Selenium
 Overview: This script scrapes LinkedIn job data.  Using a selenium web driver for Chrome it launches a headless browser and then scrapes all the relevant job details.
 
-#### To begin
-
 Prerequisites: Python installed and environment established with packages from *requirements.txt* installed using 
+
 ```
 pip install -r requirements.txt
 ```
